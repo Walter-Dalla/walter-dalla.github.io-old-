@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e466e53b.chunk.css",
+    "main.js": "/static/js/main.027be34b.chunk.js",
+    "main.js.map": "/static/js/main.027be34b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eed6e83d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eed6e83d.js.map",
+    "static/js/2.43140a1d.chunk.js": "/static/js/2.43140a1d.chunk.js",
+    "static/js/2.43140a1d.chunk.js.map": "/static/js/2.43140a1d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4f305f8617e1fd3f8361879ca21f5d58.js": "/precache-manifest.4f305f8617e1fd3f8361879ca21f5d58.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e466e53b.chunk.css.map": "/static/css/main.e466e53b.chunk.css.map",
+    "static/js/2.43140a1d.chunk.js.LICENSE.txt": "/static/js/2.43140a1d.chunk.js.LICENSE.txt",
+    "static/media/inicio.jpg": "/static/media/inicio.2d274ac2.jpg",
+    "static/media/unespLogo.png": "/static/media/unespLogo.e816a99d.png",
+    "static/media/unicampLogo.png": "/static/media/unicampLogo.8999bc94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eed6e83d.js",
+    "static/js/2.43140a1d.chunk.js",
+    "static/css/main.e466e53b.chunk.css",
+    "static/js/main.027be34b.chunk.js"
+  ]
+}
